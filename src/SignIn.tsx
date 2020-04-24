@@ -39,5 +39,5 @@ const App: React.FC = () => (
     </IonContent>
   </IonApp>
 );
-
+// Tbarkellah 3lik tsenay ghir n3awd n9ra ionic wana m3ak 3ad kmlt react #Ayb
 export default App;
